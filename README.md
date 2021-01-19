@@ -51,3 +51,5 @@
             <footer>
             </footer>
         </html>
+    **Class#7**
+        Index y su estructura básica: head
