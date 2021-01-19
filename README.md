@@ -25,18 +25,29 @@
                         -> Compiladores / Empaquetador
                             * Babel
                             * Webpack
-        **Class#3**
-            Backend
-                * Diferentes lenguajes de programación
-                * Diferentes frameworks
-                * Infraestructura
-                * Bases de datos
-        **Class#4**
-            Fullstack
-        **Class#5**
-            Páginas Estáticas vs. Dinámicas
-                -> Landing pages(Páginas Estáticas)
-                    * Texto plano
-                    * No tienen un CRUD
-                -> Wep Apps (Páginas Dinámicas)
-                    * Tienen CRUD
+    **Class#3**
+        Backend
+            * Diferentes lenguajes de programación
+            * Diferentes frameworks
+            * Infraestructura
+            * Bases de datos
+    **Class#4**
+        Fullstack
+    **Class#5**
+        Páginas Estáticas vs. Dinámicas
+            -> Landing pages(Páginas Estáticas)
+                * Texto plano
+                * No tienen un CRUD
+            -> Wep Apps (Páginas Dinámicas)
+                * Tienen CRUD
+**2. HTML**
+    **Class#6**
+        HTML: anatomía de una página web
+        <html>
+            <header>
+            </header>
+            <body>
+            </body>
+            <footer>
+            </footer>
+        </html>
