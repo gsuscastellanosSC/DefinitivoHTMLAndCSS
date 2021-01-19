@@ -31,4 +31,5 @@
                 * Diferentes frameworks
                 * Infraestructura
                 * Bases de datos
-
+        **Class#4**
+            Fullstack
