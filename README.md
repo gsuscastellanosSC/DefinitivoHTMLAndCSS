@@ -25,5 +25,10 @@
                         -> Compiladores / Empaquetador
                             * Babel
                             * Webpack
-
+        **Class#3**
+            Backend
+                * Diferentes lenguajes de programación
+                * Diferentes frameworks
+                * Infraestructura
+                * Bases de datos
 
