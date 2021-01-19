@@ -33,3 +33,10 @@
                 * Bases de datos
         **Class#4**
             Fullstack
+        **Class#5**
+            Páginas Estáticas vs. Dinámicas
+                -> Landing pages(Páginas Estáticas)
+                    * Texto plano
+                    * No tienen un CRUD
+                -> Wep Apps (Páginas Dinámicas)
+                    * Tienen CRUD
