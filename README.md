@@ -88,6 +88,8 @@
             -> Tamaño recomendado: 100 KB a 70 KB <= 1 MB
     **Class#13**
         Etiqueta img
+    **Class#14**
+        Etiqueta figure
 **Links**
     unsplash:
         https://unsplash.com/s/photos/cats
