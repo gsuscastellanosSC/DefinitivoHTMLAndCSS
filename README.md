@@ -57,6 +57,20 @@
         Index y su estructura básica: body
     **Class#9**
         Reto: crea tu lista de compras del supermercado
+    **Class#10**
+        Anatomía de una etiqueta de HTML
+                    Opening Tg
+             ____________________________
+            |                           |
+            | Attribute     Attribute   |
+            |   Name          Value     |
+            |______  ___________________|
+            |      ||                   |
+            <a href="http://dabrook.org">Visit DaBrook</a>
+            |___________________________|
+                    Atribute
+            |_____________________________________________|
+                                Element
 **Links**
     HTML elements reference:
         https://developer.mozilla.org/en-US/docs/Web/HTML/Element
