@@ -55,6 +55,8 @@
         Index y su estructura básica: head
     **Class#8**
         Index y su estructura básica: body
+    **Class#9**
+        Reto: crea tu lista de compras del supermercado
 **Links**
     HTML elements reference:
         https://developer.mozilla.org/en-US/docs/Web/HTML/Element
