@@ -72,7 +72,7 @@
             |_____________________________________________|
                                 Element
 **3. Etiquetas multimedia**
-    **Class#10**
+    **Class#11**
         Tipos de imágenes
             Lossy vs Lossless:
                 * Lossless(Sin pérdida), calidad.
@@ -83,10 +83,16 @@
                     -> Más grandes
                     -> Carga menos rapida
                     -> Ejemplos: JPG / JPEG, SVG-Vector
-    **Class#11**
+    **Class#12**
         Optimización de imágenes
-            -> Tamaño recomendado: 70 KB
+            -> Tamaño recomendado: 100 KB a 70 KB <= 1 MB
+    **Class#13**
+        Etiqueta img
 **Links**
+    unsplash:
+        https://unsplash.com/s/photos/cats
+    pexels:
+        https://www.pexels.com/es-es/
     verexif para quitar meta datos:
         https://www.verexif.com/
     Smart PNG and JPEG compression:
