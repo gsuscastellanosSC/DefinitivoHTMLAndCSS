@@ -53,3 +53,8 @@
         </html>
     **Class#7**
         Index y su estructura básica: head
+    **Class#8**
+        Index y su estructura básica: body
+**Links**
+    HTML elements reference:
+        https://developer.mozilla.org/en-US/docs/Web/HTML/Element
