@@ -97,6 +97,8 @@
         Etiqueta form e input
     **Class#17**
         Calendar
+    **Class#18**
+        Autocomplete y require
 **Links**
     input:
         https://developer.mozilla.org/es/docs/Web/HTML/Elemento/input
