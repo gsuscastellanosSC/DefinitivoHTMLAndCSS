@@ -90,6 +90,7 @@
         Etiqueta img
     **Class#14**
         Etiqueta figure
+    **Class#15**
 **Links**
     unsplash:
         https://unsplash.com/s/photos/cats
