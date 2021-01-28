@@ -103,7 +103,13 @@
         Select
     **Class#20**
         Input type submit vs. Button tag
+**5. CSS**
+    **Class#21**
+        ¿Qué es CSS?
+            Cascading Style Sheets
 **Links**
+    CSS:
+        https://developer.mozilla.org/es/docs/Web/CSS
     input:
         https://developer.mozilla.org/es/docs/Web/HTML/Elemento/input
     unsplash:
