@@ -99,6 +99,8 @@
         Calendar
     **Class#18**
         Autocomplete y require
+    **Class#19**
+        Select
 **Links**
     input:
         https://developer.mozilla.org/es/docs/Web/HTML/Elemento/input
