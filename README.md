@@ -109,7 +109,15 @@
             Cascading Style Sheets
     **Class#22**
         ¿Cómo utilizamos CSS?: por etiqueta, selector, class y por ID
+    **Class#23**
+        Pseudo clases y pseudo elementos
 **Links**
+    Pseudo-classes:
+        https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
+    Pseudoelementos:
+        https://developer.mozilla.org/es/docs/Web/CSS/Pseudoelementos
+    Why BEM:
+        https://en.bem.info/methodology/faq/#why-bem
     CSS:
         https://developer.mozilla.org/es/docs/Web/CSS
     input:
