@@ -107,6 +107,8 @@
     **Class#21**
         ¿Qué es CSS?
             Cascading Style Sheets
+    **Class#22**
+        ¿Cómo utilizamos CSS?: por etiqueta, selector, class y por ID
 **Links**
     CSS:
         https://developer.mozilla.org/es/docs/Web/CSS
