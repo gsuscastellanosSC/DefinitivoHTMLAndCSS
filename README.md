@@ -101,6 +101,8 @@
         Autocomplete y require
     **Class#19**
         Select
+    **Class#20**
+        Input type submit vs. Button tag
 **Links**
     input:
         https://developer.mozilla.org/es/docs/Web/HTML/Elemento/input
