@@ -91,6 +91,10 @@
     **Class#14**
         Etiqueta figure
     **Class#15**
+        Etiqueta video
+**4. Formularios**
+    **Class#16**
+        Etiqueta form e input
 **Links**
     unsplash:
         https://unsplash.com/s/photos/cats
