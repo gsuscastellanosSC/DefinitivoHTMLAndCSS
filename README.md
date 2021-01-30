@@ -162,7 +162,7 @@
                 3. Declaraciones importantes en hojas de estilos de autor(Utiliza el !important)
             Especifidad:
                 Selectores                           Especifidad
-                                                    (+++, ++,  +,  +-,  -)
+                                                    (+++, ++,  +,  +-,  -)  
                 !important                           1,    0,   0,  0,   0  (1)
                 Inline styles(enbebidos en el html)  0,    1,   0,  0,   0  (2)
                 #id                                  0,    0,   1,  0,   0  (3)
@@ -179,6 +179,8 @@
                 5. No. Utiliza las declaraciones que vienen en su fuente original.
             Orden de las fuentes:
                 En tus estilos, las declaraciones al final del documento anularán a las que sucededan antes en caso de conflicto.
+        **Class#28**
+            Demo de especificidad y orden en selectores
 **Links**
     CSS Specificity calculator:
         https://www.codecaptain.io/tools/css-specificity-calculator
