@@ -111,6 +111,18 @@
         ¿Cómo utilizamos CSS?: por etiqueta, selector, class y por ID
     **Class#23**
         Pseudo clases y pseudo elementos
+    **Class#24**
+        Anatomía de una regla de CSS
+        
+        Selector
+        |__|         Property Value
+         p{          |___|
+             color  : red;
+            |_____|
+            Property
+        }
+        |_________________|
+            Declaration
 **Links**
     Pseudo-classes:
         https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
