@@ -152,6 +152,8 @@
         => El relleno es transparente.
         => Los bordes son transparentes.
         => El contenido, texto, imagnes etc.. Es visible.
+    **Class#26**
+        Herencia
 **Links**
     box-sizing:    
         https://developer.mozilla.org/es/docs/Web/CSS/box-sizing
