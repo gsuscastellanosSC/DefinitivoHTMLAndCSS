@@ -113,8 +113,8 @@
         Pseudo clases y pseudo elementos
     **Class#24**
         Anatomía de una regla de CSS
-        
         Selector
+        |  |
         |__|         Property Value
          p{          |___|
              color  : red;
@@ -123,7 +123,38 @@
         }
         |_________________|
             Declaration
+    **Class#25**
+        Modelo de caja
+                            Top
+                ________________________________
+                |margin                         |
+                |   ____________________________|
+                |   |Border                     |
+                |   |    _______________________|
+        Left    |   |   |padding                | Right
+                |   |   |                       |
+                |   |   |   ____________________|
+                |   |   |   |Content           H|
+                |   |   |   |---------W---------|
+                |___|___|___|___________________|
+                            Bottom
+                            margin-top
+                             _________
+                            |   12    |
+                            |    |    |
+                margin-left |9   .__ 3| margin-right
+                            |         |
+                            |____6____|
+                            margin-bottom
+        => El margin siempre es trasparente.
+        => El background siempre es trasparente.
+        => La imagen de fondo no existe.
+        => El relleno es transparente.
+        => Los bordes son transparentes.
+        => El contenido, texto, imagnes etc.. Es visible.
 **Links**
+    box-sizing:    
+        https://developer.mozilla.org/es/docs/Web/CSS/box-sizing
     Pseudo-classes:
         https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
     Pseudoelementos:
