@@ -154,7 +154,34 @@
         => El contenido, texto, imagnes etc.. Es visible.
     **Class#26**
         Herencia
+    **Class#27**
+        Especificidad en selectores
+            Importancia:
+                1. Hoja de estilos de agente de usuario(Estilos del navegador)
+                2. Declaraciones normales en hojas de estilo de autor(style.css)
+                3. Declaraciones importantes en hojas de estilos de autor(Utiliza el !important)
+            Especifidad:
+                Selectores                           Especifidad
+                                                    (+++, ++,  +,  +-,  -)
+                !important                           1,    0,   0,  0,   0  (1)
+                Inline styles(enbebidos en el html)  0,    1,   0,  0,   0  (2)
+                #id                                  0,    0,   1,  0,   0  (3)
+                .class                               0,    0,   0,  1,   0  (4)
+                tag(etiquetas html)                  0,    0,   0,  0,   1  (5)
+            Reglas de cascada.
+                1. Conflicto en la declaración.
+                2. ¿Diferente origen o !Important?
+                    2.1. Si. Utiliza la declaración con el origen de mayor prioridad.
+                3. No. ¿Tiene algún Inline style?
+                    3.1. Si. Utiliza las Inline Declaraciones.
+                4. No. ¿los selectores tienen especifidad diferente?
+                    4.1. Si. Utiliza las declaraciones con mayor especifidad.
+                5. No. Utiliza las declaraciones que vienen en su fuente original.
+            Orden de las fuentes:
+                En tus estilos, las declaraciones al final del documento anularán a las que sucededan antes en caso de conflicto.
 **Links**
+    CSS Specificity calculator:
+        https://www.codecaptain.io/tools/css-specificity-calculator
     box-sizing:    
         https://developer.mozilla.org/es/docs/Web/CSS/box-sizing
     Pseudo-classes:
