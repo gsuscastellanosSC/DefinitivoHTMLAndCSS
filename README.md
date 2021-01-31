@@ -181,6 +181,8 @@
                 En tus estilos, las declaraciones al final del documento anularán a las que sucededan antes en caso de conflicto.
         **Class#28**
             Demo de especificidad y orden en selectores
+        **Class#29**
+            Más sobre selectores
 **Links**
     CSS Specificity calculator:
         https://www.codecaptain.io/tools/css-specificity-calculator
