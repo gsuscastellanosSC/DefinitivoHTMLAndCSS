@@ -183,17 +183,18 @@
             Demo de especificidad y orden en selectores
         **Class#29**
             Más sobre selectores
-        **Class#30**    
+        **Class#30**
             Combinadores: Adjacent Siblings (combinators)
             Hermano Adyacente o cercano          Hermano general
             div + p{                             div ~ p{
                 ...                                 ...  
             }                                    }
-
             Hijo                                 Desendiente
             div > p{                             div p{
                 ...                                 ...
-            }                                    }              
+            }                                    }
+        **Class#31**
+            Combinadores: General Sibling
 **Links**
     Select the plates:
         https://flukeout.github.io/
