@@ -195,7 +195,11 @@
             }                                    }
         **Class#31**
             Combinadores: General Sibling
+        **Class#33**            
+            Combinadores: Hijo y Descendiente
 **Links**
+    Combinators:
+        https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
     Select the plates:
         https://flukeout.github.io/
     CSS Specificity calculator:
