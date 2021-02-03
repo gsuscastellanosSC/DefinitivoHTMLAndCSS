@@ -195,7 +195,7 @@
             }                                    }
         **Class#31**
             Combinadores: General Sibling
-        **Class#33**            
+        **Class#32**            
             Combinadores: Hijo y Descendiente
 **Links**
     Combinators:
