@@ -1,0 +1,29 @@
+* {
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
+h1 {
+    color: white;
+    font-size: 100%;
+}
+
+main {
+    padding: 0 0 0 40px;
+    background-color: red;
+    width: 600px;
+    height: 600px;
+}
+
+li {
+    color: white;
+    font-size: 80%;
+}
+
+li a {
+    color: red;
+    background-color: white;
+    border-radius: 4px 50px 2px 50px;
+    text-decoration: none;
+    font-size: 150%;
+}

@@ -1,0 +1,15 @@
+* {
+    margin: 0 0 0 0;
+}
+
+main {
+    background-color: red;
+    width: 600px;
+    height: 600px;
+}
+
+p {
+    padding: 100px;
+    font-size: 16px;
+    color: white;
+}

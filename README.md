@@ -197,6 +197,20 @@
             Combinadores: General Sibling
         **Class#32**            
             Combinadores: Hijo y Descendiente
+        **Class#33**
+            Medidas:
+                -> Absolutas:
+                    NO cambia en relación a la pantalla.
+                        px
+                -> Relativas:
+                    Cambiar en relación a la pantalla.
+                        %
+                        em
+                        rem(root em)
+                        max-width/max-height
+                        min-width/min-height
+                        vw(viewport width)
+                        vh(viewport height)
 **Links**
     Combinators:
         https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
