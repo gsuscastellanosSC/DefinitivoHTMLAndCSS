@@ -214,6 +214,9 @@
 # Class#34
     Medidas  EM
         * Em(element) Tamaño de fuente del padre directo.
+# Class#35    
+    Medidas  REM(Recomendado para tamaños de fuentes)
+        * Hereda el tamaño del elemento root.
 # Links
     Combinators:
         https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
