@@ -211,6 +211,9 @@
                 min-width/min-height
                 vw(viewport width)
                 vh(viewport height)
+# Class#34
+    Medidas  EM
+        * Em(element) Tamaño de fuente del padre directo.
 # Links
     Combinators:
         https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
