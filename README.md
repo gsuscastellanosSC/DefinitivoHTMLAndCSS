@@ -217,6 +217,8 @@
 # Class#35    
     Medidas  REM(Recomendado para tamaños de fuentes)
         * Hereda el tamaño del elemento root.
+# Class#36    
+    Max/Min width 
 # Links
     Combinators:
         https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
