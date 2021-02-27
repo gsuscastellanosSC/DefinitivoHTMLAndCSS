@@ -221,6 +221,8 @@
     Max/Min width
 # Class#37
     Position
+# Class#38    
+    Display
 # Links
     Combinators:
         https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
