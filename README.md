@@ -246,6 +246,8 @@
     Responsive design: media queries
 # Class#45    
     Estrategias de responsive: mostly fluid
+# Class#46
+    Implementando mostly fluid
 # Links
     Fonts:
         https://fonts.google.com/
