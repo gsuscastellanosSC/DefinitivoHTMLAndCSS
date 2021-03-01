@@ -223,6 +223,8 @@
     Position
 # Class#38    
     Display
+# Class#39
+    Desafío: Layout 1
 # Links
     Combinators:
         https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators

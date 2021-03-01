@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+
+span {
+    display: inline-block;
+}
+
+menu ul {
+    padding-left: 1468px;
+}
+
+menu ul li {
+    display: inline-block;
+    list-style: none;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+div {
+    display: inline-block;
+    background-color: chartreuse;
+}
+
+div section {
+    display: inline-block;
+    background-color: chartreuse;
+    width: 39.6px;
+    min-height: 850px;
+}
+
+section {
+    background-color: chartreuse;
+}
+
+body {
+    background-color: chartreuse;
+}
+
+main {
+    display: inline-block;
+    background-color: chocolate;
+    width: 1859.4px;
+    min-height: 850px;
+}
+
+footer {
+    background-color: crimson;
+    text-align: center;
+    height: 73px;
+    color: white;
+}
