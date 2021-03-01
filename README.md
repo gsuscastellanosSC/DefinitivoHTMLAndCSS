@@ -242,6 +242,8 @@
             -> Times New Roman
             -> Helvetica
             -> Georgia
+# Class#44
+    Responsive design: media queries
 # Links
     Fonts:
         https://fonts.google.com/
