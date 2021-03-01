@@ -250,6 +250,8 @@
     Implementando mostly fluid
 # Class#47
     Layout Shifter
+# Class#48
+    Layout shifter CSS
 # Links
     Fonts:
         https://fonts.google.com/
