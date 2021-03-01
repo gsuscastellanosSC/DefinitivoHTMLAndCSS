@@ -244,6 +244,8 @@
             -> Georgia
 # Class#44
     Responsive design: media queries
+# Class#45    
+    Estrategias de responsive: mostly fluid
 # Links
     Fonts:
         https://fonts.google.com/
