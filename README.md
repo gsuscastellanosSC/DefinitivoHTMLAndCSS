@@ -225,6 +225,8 @@
     Display
 # Class#39
     Desafío: Layout 1
+# Class#40    
+    Display Flex
 # Links
     Combinators:
         https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
