@@ -1,0 +1,41 @@
+:root {
+    --primary-color: slateblue;
+    --secundary-color: blue;
+    --header-size: 4rem;
+    --font: 1.8rem;
+    --widthDefault: 100vw;
+    --heightDefault: 15vh;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+header {
+    width: var(--widthDefault);
+    height: var(--heightDefault);
+    background-color: var(--primary-color);
+}
+
+main {
+    width: var(--widthDefault);
+    height: 70vh;
+    font-size: var(--font);
+}
+
+h1 {
+    font-size: 4rem;
+    color: var(--secundary-color);
+}
+
+footer {
+    width: var(--widthDefault);
+    height: var(--heightDefault);
+    background-color: var(--primary-color);
+}
