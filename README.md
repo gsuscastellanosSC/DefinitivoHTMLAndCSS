@@ -248,6 +248,8 @@
     Estrategias de responsive: mostly fluid
 # Class#46
     Implementando mostly fluid
+# Class#47
+    Layout Shifter
 # Links
     Fonts:
         https://fonts.google.com/

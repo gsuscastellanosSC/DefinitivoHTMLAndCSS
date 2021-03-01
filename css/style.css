@@ -26,16 +26,17 @@ header {
 .container {
     display: flex;
     flex-direction: column;
-    background-color: var(--secundary-color);
+    background-color: brown;
+    /*var(--secundary-color);*/
     width: var(--widthDefault);
-    height: 70vh;
+    min-height: 120vh;
     color: white;
 }
 
 .title {
     display: flex;
     justify-content: center;
-    font-size: var(--font);
+    font-size: 4rem;
 }
 
 .class {
@@ -53,11 +54,11 @@ header {
     height: var(--heightDefault);
 }
 
-.lessons-a {
+main section ol li a {
     background-color: white;
     border-radius: 4px 50px 2px 50px;
     text-decoration: none;
-    font-size: 150%;
+    font-size: 1.5rem;
 }
 
 footer {
