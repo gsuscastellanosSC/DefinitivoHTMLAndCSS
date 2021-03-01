@@ -252,6 +252,8 @@
     Layout Shifter
 # Class#48
     Layout shifter CSS
+# Class#49    
+    Column drop
 # Links
     Fonts:
         https://fonts.google.com/
