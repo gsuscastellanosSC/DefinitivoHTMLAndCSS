@@ -1,29 +1,67 @@
+:root {
+    --primary-color: slateblue;
+    --secundary-color: rgb(255, 187, 0);
+    --header-size: 4rem;
+    --font: 1.8rem;
+    --widthDefault: 100vw;
+    --heightDefault: 15vh;
+}
+
 * {
+    box-sizing: border-box;
     margin: 0 0 0 0;
     padding: 0;
 }
 
-h1 {
-    color: white;
-    font-size: 100%;
+html {
+    font-size: 62.5%;
 }
 
-main {
+header {
+    background-color: var(--primary-color);
+    width: var(--widthDefault);
+    height: var(--heightDefault);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--secundary-color);
+    width: var(--widthDefault);
+    height: 70vh;
+    color: white;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-size: var(--font);
+}
+
+.class {
+    display: flex;
+    width: var(--widthDefault);
+    height: var(--heightDefault);
+}
+
+.lessons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
     padding: 0 0 0 40px;
-    background-color: red;
-    width: 600px;
-    height: 600px;
+    width: var(--widthDefault);
+    height: var(--heightDefault);
 }
 
-li {
-    color: white;
-    font-size: 80%;
-}
-
-li a {
-    color: red;
+.lessons-a {
     background-color: white;
     border-radius: 4px 50px 2px 50px;
     text-decoration: none;
     font-size: 150%;
+}
+
+footer {
+    background-color: var(--primary-color);
+    width: var(--widthDefault);
+    height: var(--heightDefault);
 }

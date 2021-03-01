@@ -227,6 +227,10 @@
     Desafío: Layout 1
 # Class#40    
     Display Flex
+# Class#41    
+    Flexbox layouts
+# Class#42
+    Variables
 # Links
     Combinators:
         https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
