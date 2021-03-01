@@ -231,7 +231,20 @@
     Flexbox layouts
 # Class#42
     Variables
+# Class#43
+    Web fonts
+        Fuentes genericas:
+            -> serif
+            -> sans-serif
+            -> cursive
+            -> monospace
+        Otras fuentes:
+            -> Times New Roman
+            -> Helvetica
+            -> Georgia
 # Links
+    Fonts:
+        https://fonts.google.com/
     Combinators:
         https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
     Select the plates:
