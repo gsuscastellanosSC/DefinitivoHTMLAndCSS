@@ -269,6 +269,8 @@
     Textos
 # Class#53
     Labels, alt y title
+# Class#54
+    Próximos pasos como Web Developer
 # Links
     Curso de Accesibilidad Web:
         https://platzi.com/clases/accesibilidad-web/
