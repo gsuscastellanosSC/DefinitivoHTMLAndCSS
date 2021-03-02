@@ -256,7 +256,7 @@
    Buenas prácticas y ejemplos de responsive
 # Class#50
    Imágenes responsive
-# Class#51   
+# Class#51
    Semántica
     Container
         Header
@@ -265,6 +265,8 @@
         Main content
         Sidebar
         Footer
+# Class#52
+    Textos
 # Links
     Curso de Accesibilidad Web:
         https://platzi.com/clases/accesibilidad-web/
