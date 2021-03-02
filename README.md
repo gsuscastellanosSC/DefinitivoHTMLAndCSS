@@ -251,10 +251,12 @@
 # Class#47
     Layout Shifter
 # Class#48
-    Layout shifter CSS
-# Class#49    
-    Column drop
+   Column drop
+# Class#49
+   Buenas prácticas y ejemplos de responsive
 # Links
+    MY DEVICE:
+        https://www.mydevice.io
     Fonts:
         https://fonts.google.com/
     Combinators:

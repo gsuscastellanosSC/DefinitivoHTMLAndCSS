@@ -66,3 +66,7 @@ footer {
     width: var(--widthDefault);
     height: var(--heightDefault);
 }
+
+@media (min-width: 600px) {}
+
+@media (min-width: 800px) {}
