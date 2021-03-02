@@ -254,6 +254,8 @@
    Column drop
 # Class#49
    Buenas prácticas y ejemplos de responsive
+# Class#50   
+   Imágenes responsive
 # Links
     MY DEVICE:
         https://www.mydevice.io
