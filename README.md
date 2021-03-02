@@ -254,9 +254,20 @@
    Column drop
 # Class#49
    Buenas prácticas y ejemplos de responsive
-# Class#50   
+# Class#50
    Imágenes responsive
+# Class#51   
+   Semántica
+    Container
+        Header
+            Logo
+            Navigation
+        Main content
+        Sidebar
+        Footer
 # Links
+    Curso de Accesibilidad Web:
+        https://platzi.com/clases/accesibilidad-web/
     MY DEVICE:
         https://www.mydevice.io
     Fonts:
