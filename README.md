@@ -267,6 +267,8 @@
         Footer
 # Class#52
     Textos
+# Class#53
+    Labels, alt y title
 # Links
     Curso de Accesibilidad Web:
         https://platzi.com/clases/accesibilidad-web/
