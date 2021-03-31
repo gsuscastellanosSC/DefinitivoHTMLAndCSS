@@ -78,7 +78,7 @@
             * Lossless(Sin pérdida), calidad.
                 -> Más pequeñas
                 -> Carga más rapida
-                -> Ejemplos: gif, PNG ...
+                -> Ejemplos: gif, PNG-8(256, ayudan a generar imagenes con transparencias), PNG-24 ...
             * Lossy(Con pérdida), calidad.
                 -> Más grandes
                 -> Carga menos rapida
@@ -205,8 +205,8 @@
         -> Relativas:
             Cambiar en relación a la pantalla.
                 %
-                em
-                rem(root em)
+                em(em toma como medida base el tamaño de fuente de su padre directo.)
+                rem(toma como medida base el tamaño de fuente que está en el elemento root que sería la etiqueta html)
                 max-width/max-height
                 min-width/min-height
                 vw(viewport width)
